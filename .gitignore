@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+adapters/
+data/
+youtube/*/mp3/
+youtube/*/mp4/
+youtube/*/media/
+youtube/*/clips/
+youtube/*/_qc/
+youtube/*/images/
+youtube/*/manim/
+youtube/*/pantry/

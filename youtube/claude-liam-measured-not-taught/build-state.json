@@ -1,0 +1,33 @@
+{
+  "status": "ready",
+  "output": "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp4/claude-liam-measured-not-taught.mp4",
+  "sha256": "d4265b66a5958658e7c16818ecaecd3d164565035fb4830f2f1756abbbe160dd",
+  "duration_s": 173.75,
+  "input_sha256": {
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B00.mp4": "181c2c8845398c3eab5d94fce60c1dd304b1cbd0071dcf64eeef22fbd867352a",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B01.mp4": "eb58948f5556f4831c294fce11fae1bd0a44ca82409978aaba430de4ae36fb39",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B02.mp4": "d683a5d0085cc1f4c3070d80235b36ca625a6c045ef4117a8358e10f51d8a0ab",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B03.mp4": "f30bc14ce56d599aca9d24b80c2ce378c554ed569a9999308195f759407680e5",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B04.mp4": "0b94df31267bfb108bbed85c3f0ee8611cace53419f1cc3ac568689bf25d891d",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B05.mp4": "0800e0f9af082024132f7fe901bb9d081ca696f6e78282fa30a1f7bb3408f468",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B06.mp4": "e6d263833b963855a4e8e53d99d0d569de48948cb869852f45da51048e02ec97",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B07.mp4": "a89a8bebe693bb3efb29786595eff885ca645b570dd292691c5538f5ae075f79",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/B08.mp4": "759d8ffa7b64beb1244b5964e62597368f35c662eee5eac49d20d42a8f055479",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/BHTF.mp4": "a4daee97b4122d5e377ce7b6fab66664d5968933e6817429725078b30b475ffc",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/BOUT.mp4": "70ada0693dbab17e5853a3be329703645bce917334ca973e8b5f1b1650b01e23",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/media/BVDT.mp4": "39e9f5220b819b7056b51475d65460d006ec2f146b076c55f97c39ee95e0df72",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B00.mp3": "d6b9fca99e49311ee37bf111d8a11eec8f5791c9549cc424178e84f622c1eac4",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B01.mp3": "eaa839af3efa14691e52528f8fcf58b9f1b0a151fc0318f2bff99dbfcf5c71ce",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B02.mp3": "16cdc961359ee9474ef20df6423691772df3a3370792e563279460ba795da8ab",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B03.mp3": "45933a2268d48eae06b67f089fb2adc0311e3b6f96457acd345fddfe95a6753c",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B04.mp3": "472ba78a0c5998abcd95d98627d8721f222c4de026782e36e15103a5a91f7066",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B05.mp3": "aa49530143c4da0b2568c1233301193454a73a8c06bf122991eb1b7bc01c1e95",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B06.mp3": "da4bf8063e0f4205cc799f6476168b7d2cff6969126cb5720c60ccdbac153308",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B07.mp3": "ed0d036e221f3a0cd48d3f70f7636cfa89d22d449eb6c2b51c2dc012b9d21665",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-B08.mp3": "ed81deac184bbb22b7eba4081ce9e4ba82bf49ee449abd81e035dce86f4cf682",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-BHTF.mp3": "805bd212c08567a60100f4d215323d5b26969e4c863d994145c67eccaea72821",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-BOUT.mp3": "3c6ef27bf9d73c0dabfa7b81f11c1efd06e58cac1c54f3f49e0cbb52bc6425b3",
+    "/Users/rohanjauhari/Desktop/Humanitarians/recovery-env/youtube/claude-liam-measured-not-taught/mp3/beat-BVDT.mp3": "e2c1653ef375be6130475cdf7ea2c17cc817707596135df2851f64a7346e062e"
+  },
+  "at": "2026-10-26T18:12:45.650275+00:00"
+}

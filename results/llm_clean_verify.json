@@ -1,0 +1,34 @@
+{
+ "clean": {
+  "split": "clean",
+  "n": 50,
+  "success": 0.0,
+  "faulted_n": 0,
+  "success_when_faulted": null,
+  "mean_steps": 3.96
+ },
+ "eval_id": {
+  "split": "eval_id",
+  "n": 50,
+  "success": 0.0,
+  "faulted_n": 6,
+  "success_when_faulted": 0.0,
+  "mean_steps": 3.96
+ },
+ "eval_ood": {
+  "split": "eval_ood",
+  "n": 50,
+  "success": 0.0,
+  "faulted_n": 11,
+  "success_when_faulted": 0.0,
+  "mean_steps": 3.96
+ },
+ "eval_ood_task": {
+  "split": "eval_ood_task",
+  "n": 50,
+  "success": 0.0,
+  "faulted_n": 20,
+  "success_when_faulted": 0.0,
+  "mean_steps": 3.86
+ }
+}
